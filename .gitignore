@@ -1,0 +1,2 @@
+# plaintext source stays local; only the encrypted docs/index.html is published
+src/
